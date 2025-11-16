@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<p style="color:#0B3D91; font-size:28px; font-family:Georgia, serif; text-align:left;">
-I am an enthusiastic lightning researcher at the Lightning Research Group, University of Florida
+<p style="color:#FF0000; font-size:28px; font-family:Georgia, serif; text-align:left;">
+I am an enthusiastic lightning researcher at the Lightning Research Group, University of Florida.
 </p>
 
 
