@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Ziqin Ding"
   pronouns         : # example: "she/her"  
-  bio              : "iqin Ding is currently a Postdoctoral Associate in the Department of Electrical and Computer Engineering at the University of Florida, Gainesville, FL, USA. He received the B.Eng. in Aerospace Engineering from Nanjing University of Astronautics and Aeronautics, Nanjing, China, in 2016 and M.Sc. degrees in Aerospace Engineering from University of Florida, Gainesville, Florida, USA, in 2018, respectively. He received his Ph.D. degree in Electrical and Computer Engineering from the University of Florida in 2024. His research interests include lightning physics, lightning protection, lightning detection, plasma physics, etc. He has authored or coauthored more than 25 technical journal and conference papers. He is a member of AGU, AMS, and IEEE."
+  bio              : "Ziqin Ding is currently a Postdoctoral Associate in the Department of Electrical and Computer Engineering at the University of Florida, Gainesville, FL, USA. He received the B.Eng. in Aerospace Engineering from Nanjing University of Astronautics and Aeronautics, Nanjing, China, in 2016 and M.Sc. degrees in Aerospace Engineering from University of Florida, Gainesville, Florida, USA, in 2018, respectively. He received his Ph.D. degree in Electrical and Computer Engineering from the University of Florida in 2024. His research interests include lightning physics, lightning protection, lightning detection, plasma physics, etc. He has authored or coauthored more than 25 technical journal and conference papers. He is a member of AGU, AMS, and IEEE."
   location         : "Lightning Observatory in Gainesville (LOG)"
   employer         : "University of Florida"
   uri              : # URL
@@ -35,10 +35,10 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Gz_eGDkevfAC&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-0970-5691"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
