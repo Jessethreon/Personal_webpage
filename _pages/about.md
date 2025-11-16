@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Ziqin Ding's personal website!"
+title: "Welcome to Ziqin Ding's Personal Website!"
 author_profile: true
 redirect_from: 
   - /about/
