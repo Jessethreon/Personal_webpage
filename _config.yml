@@ -23,7 +23,7 @@ repository               : "https://jessethreon.github.io/Personal_webpage/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "icon.jpg"
   name             : "Ziqin Ding, Ph. D."
   pronouns         : "He/his"  
   bio              : "Ziqin Ding is currently working as a Post-doc Associate at University of Florida."
