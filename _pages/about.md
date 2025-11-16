@@ -1,13 +1,18 @@
 ---
 permalink: /
-title: "Ziqin Ding is an enthusiastic lightning researcher of the Lightning Research Group at University of Florida"
+title: "Welcome to Ziqin Ding's personal website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am doing lightning research using high-speed imaging, electromagnetic measuring systems, high-risk lightning detection using machine learning, lightning interferometer system, energetic radiation detection and modeling.
+<p style="color:#1e90ff; font-size:28px; font-family:Georgia, serif; font-weight:bold; text-align:center;">
+Ziqin Ding is an enthusiastic lightning researcher of the Lightning Research Group at University of Florida
+</p>
+
+
+I am an enthusiastic lightning researcher of the Lightning Research Group at University of Florida. I am doing lightning research using high-speed imaging, electromagnetic measuring systems, high-risk lightning detection using machine learning, lightning interferometer system, energetic radiation detection and modeling.
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
