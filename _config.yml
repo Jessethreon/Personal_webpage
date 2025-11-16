@@ -29,11 +29,10 @@ author:
   bio              : "Ziqin Ding is currently working as a Post-doc Associate at University of Florida."
   location         : "Gainesville, FL, USA"
   employer         : "University of Florida"
-  uri              : "https://jessethreon.github.io/Personal_webpage/"
+  uri              : "http://www.lightning.ece.ufl.edu/"
   email            : "ziqinding94@ufl.edu" 
 
   # Academic websites
-  academia         : "http://www.lightning.ece.ufl.edu/"
   googlescholar    : "https://scholar.google.com/citations?user=Gz_eGDkevfAC&hl=en"
   orcid            : "https://orcid.org/0000-0003-0970-5691"
   researchgate     : "https://www.researchgate.net/profile/Ziqin-Ding"
