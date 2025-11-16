@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<p style="color:#1e90ff; font-size:28px; font-family:Georgia, serif; font-weight:bold; text-align:center;">
-Ziqin Ding is an enthusiastic lightning researcher of the Lightning Research Group at University of Florida
+<p style="color:#0B3D91; font-size:28px; font-family:Georgia, serif; text-align:left;">
+I am an enthusiastic lightning researcher at the Lightning Research Group, University of Florida
 </p>
 
 
