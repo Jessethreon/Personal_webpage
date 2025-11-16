@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Ziqin Ding is an enthusiastic lightning researcher of the Lightning Research Group at University of Florida"
 author_profile: true
 redirect_from: 
   - /about/
