@@ -14,7 +14,7 @@ I am an enthusiastic lightning researcher at the Lightning Research Group, Unive
 
 I am an enthusiastic lightning researcher of the Lightning Research Group at University of Florida. I am doing lightning research using high-speed imaging, electromagnetic measuring systems, high-risk lightning detection using machine learning, lightning interferometer system, energetic radiation detection and modeling.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+ You can find more breathtaking images and videos at [this link](https://github.com/academicpages/academicpages.github.io) Enjoy!
 
 A showcase of the wonder of lightning
 ======
